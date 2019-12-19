@@ -1,0 +1,10 @@
+policy_active=1
+sys_form_label=Обращение
+citizen_id=3313
+sys_parameters=1
+journal_quit_on_last=False
+sys_journal_begin_date=11.02.2019
+sys_journal_end_date=11.02.2019
+JournalID=473
+journal_name=Тестовый  журнал
+sys_patient_info=1
